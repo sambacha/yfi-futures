@@ -1,0 +1,9 @@
+[submodule "oba-solver"]
+	path = oba-solver
+	url = https://github.com/gnosis/oba-solver
+[submodule "dex-liquidity-provision"]
+	path = dex-liquidity-provision
+	url = https://github.com/gnosis/dex-liquidity-provision
+[submodule "oba-services"]
+	path = oba-services
+	url = https://github.com/gnosis/oba-services
